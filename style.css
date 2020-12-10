@@ -1,0 +1,45 @@
+body{
+    background-image: url("dzsungel.jpg");
+    background-repeat: no-repeat;
+    background-size:  100% 100%;
+}
+.div{
+
+width: 50%;
+margin: 0 auto;
+background-color: rgba(255, 255, 255, 0.8);
+
+
+}
+.color{
+    color: green;
+}
+.color1{
+    color: blue;
+}
+img{
+    border: 5px solid green;
+    width: 320px;
+    float: right;
+    z-index: 2;
+    
+    
+}
+fieldset{ 
+    border: 1px solid rgb(255, 255, 255);
+    height: 100%;
+    
+}
+video{
+    margin: auto;
+    border-style: none;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+.flex{
+    display: flex;
+}
+.padding{
+    padding: 20px 20px 20px 100px;
+}
